@@ -1,0 +1,7 @@
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\bin\Debug\ConsoleJam.exe.config
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\bin\Debug\ConsoleJam.exe
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\bin\Debug\ConsoleJam.pdb
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\obj\Debug\ConsoleJam.csprojAssemblyReference.cache
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\obj\Debug\ConsoleJam.csproj.CoreCompileInputs.cache
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\obj\Debug\ConsoleJam.exe
+C:\Users\Dark\source\repos\ConsoleJam\ConsoleJam\obj\Debug\ConsoleJam.pdb
