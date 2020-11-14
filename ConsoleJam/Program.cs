@@ -14,7 +14,7 @@ namespace ConsoleJam
             double totalTime = 0;
 
             Game game = new Game();
-            Screen scn = new Screen(1);
+            Screen scn = new Screen(0);
             game.Start();
 
             while (running)
