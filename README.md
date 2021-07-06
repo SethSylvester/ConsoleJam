@@ -1,4 +1,4 @@
-# 2021-Unity-Gamejam-AIE
+# 2021-Consolejam-AIE
 ## Summary:
 24 Hour GameJam by Academy of Interaction Entertainment, Lafayette Louisiana campus. Theme: Within
 
